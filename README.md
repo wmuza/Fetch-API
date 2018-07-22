@@ -4,6 +4,8 @@ is used to ilustrate the Api functionality
 
 ##Getting Started
 
+![picture alt](https://wmuza.github.io/ALC/img/fetch.PNG "Currency Converter")
+
 Make sure node js is installed on your machine
 
 First you'll to need make sure you have all `node_modules` up-to-date.  
