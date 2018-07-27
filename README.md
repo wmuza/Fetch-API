@@ -3,6 +3,8 @@ This project is developed to show how fetch api works using JSONPlaceholder whic
 is used to ilustrate the Api functionality
 
 ## Getting Started ##
+### See how it works ###
+[Live Example](https://wmuza.github.io/Fetch-API/)
 
 ![picture alt](https://wmuza.github.io/ALC/img/fetch.PNG "Currency Converter")
 
