@@ -13,8 +13,8 @@
   "author": "Wilbert",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.1.2",
-    "express": "^4.16.3",
-    "jquery": "^3.3.1"
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
   }
 }
